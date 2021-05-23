@@ -3,7 +3,7 @@
 
 Thank you !!! :)
 
-<img src="SS1.png">
+<img src="SS1.jpg">
 
 <br><br>
 
