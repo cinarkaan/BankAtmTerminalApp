@@ -1,8 +1,8 @@
 package com.cinarbank.musteriler;
 
-import com.cinarbank.islemler.ParaCekmeIslemleri;
+import com.cinarbank.islemler.Paraİslemleri;
 
-public class KurumsalMusteri extends Musteri implements ParaCekmeIslemleri {
+public class KurumsalMusteri extends Musteri implements Paraİslemleri {
 
     private String sirketAdi;
 

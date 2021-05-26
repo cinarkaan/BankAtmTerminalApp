@@ -1,8 +1,8 @@
 package com.cinarbank.musteriler;
 
-import com.cinarbank.islemler.ParaCekmeIslemleri;
+import com.cinarbank.islemler.Paraİslemleri;
 
-public class BireyselMusteri extends Musteri implements ParaCekmeIslemleri {
+public class BireyselMusteri extends Musteri implements Paraİslemleri {
 
     private String evAdresi;
 
